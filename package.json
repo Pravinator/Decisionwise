@@ -1,0 +1,1 @@
+{ "name": "decisionwise", "version": "1.0.0", "description": "Basic Firebase Firestore JavaScript App Starter", "main": "firebase.js", "scripts": { "start": "node firebase.js" }, "dependencies": { "firebase": "^10.7.1" } }
